@@ -31,21 +31,7 @@ The four modeling steps included are:
 
 ## Repository Structure
 
-four-step-demand-model/
-│
-├── README.md                         # Project overview, instructions, and summary
-├── Demand_Modelling.ipynb            # Main notebook with all modeling steps
-│
-├── images/                           # Visualizations generated from the model
-│   ├── network.png                   # Synthetic network (nodes, edges, travel time)
-│   └── assignment_flows.png          # All-or-nothing assignment edge flows
-│
-├── data/                             
-│   ├── socioeconomic_data.csv
-│   ├── travel_time_matrix.csv
-│   ├── cost_matrix_auto.csv
-│   └── cost_matrix_transit.csv
-
+<pre><code>📁 <strong>Repository Structure</strong> four-step-demand-model/ ├── README.md # Project overview, instructions, and summary ├── Demand_Modelling.ipynb # Main notebook with all modeling steps │ ├── images/ # Visualizations generated from the model │ ├── network.png # Synthetic network (nodes, edges, travel time) │ └── assignment_flows.png # All-or-nothing assignment edge flows │ ├── data/ # (Optional) CSVs if you separate input data │ ├── socioeconomic_data.csv │ ├── travel_time_matrix.csv │ ├── cost_matrix_auto.csv │ └── cost_matrix_transit.csv </code></pre>
 
 
 ---
