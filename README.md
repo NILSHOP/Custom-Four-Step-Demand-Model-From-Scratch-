@@ -50,7 +50,7 @@ four-step-demand-model/
 
 ---
 
-## 🧰 Libraries Used
+## Libraries Used
 
 - `pandas`, `numpy` – Data manipulation  
 - `matplotlib` – Visualization  
@@ -58,7 +58,7 @@ four-step-demand-model/
 
 ---
 
-## 📈 Sample Output
+## Sample Output
 
 Visualizations include:
 
