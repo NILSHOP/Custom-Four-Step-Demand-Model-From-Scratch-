@@ -43,12 +43,13 @@ four-step-demand-model/
 │   ├── network.png                   # Synthetic network (nodes, edges, travel time)
 │   └── assignment_flows.png         # All-or-nothing assignment edge flows
 │
-├── data/                             # (Optional) CSVs if you separate input data
-│   ├── socioeconomic_data.csv
-│   ├── travel_time_matrix.csv
-│   ├── cost_matrix_auto.csv
-│   └── cost_matrix_transit.csv
-
+├── data/                             # Input datasets (Excel format)
+│   ├── socioeconomic_data.xlsx
+│   ├── travel_time_matrix.xlsx
+│   ├── Cost_auto.xlsx
+│   ├── Cost_transit.xlsx
+│   ├── Travel_time_auto.xlsx
+│   └── Travel_time_transit.xlsx
 
 
 ---
