@@ -71,10 +71,10 @@ Visualizations include:
 
 ---
 
-## 🚀 Notes
+## Notes
 
 - All data are synthetic and meant for demonstration.
-- Inspired by a CE 457 term final question at BUET.
+- Inspired by a term final question of the course CE 457: Urban Transportation Planning and Management at BUET.
 
 
 
