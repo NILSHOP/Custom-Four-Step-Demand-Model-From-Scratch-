@@ -1,8 +1,6 @@
 # Custom-Four-Step-Demand-Model-From-Scratch
 Manual implementation of the classic Four-Step Travel Demand Model using Python, applied to a synthetic 5-zone city. Built entirely from scratch without simulation software for hands-on understanding and practice.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NILSHOP/Custom-Four-Step-Demand-Model-From-Scratch/blob/main/Demand_Modelling.ipynb)
-
 
 # Four-Step Urban Travel Demand Model – Synthetic 5-Zone City
 
@@ -22,7 +20,7 @@ The four modeling steps included are:
    Estimated productions and attractions using regression-style equations and synthetic socioeconomic data.
 
 2. **Trip Distribution**  
-   Implemented a doubly-constrained gravity model with impedance function \[ f(c_{ij}) = \frac{1}{t_{ij}^2} \]
+   Implemented a doubly-constrained gravity model with impedance function f(c_ij) = 1 / (t_ij)^2
 
 3. **Mode Choice**  
    Split total trips between Auto and Transit using a utility-based logit model.
